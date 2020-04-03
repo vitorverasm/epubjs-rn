@@ -2,7 +2,7 @@ import {
   AppState
 } from 'react-native';
 
-import StaticServer from 'react-native-static-server';
+import StaticServer from '@vitorverasm/react-native-static-server';
 
 import RNFetchBlob from "rn-fetch-blob";
 
