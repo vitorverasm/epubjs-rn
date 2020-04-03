@@ -1,7 +1,8 @@
 {
-  "name": "epubjs-rn",
+  "name": "@vitorverasm/epubjs-rn",
   "version": "0.1.5",
   "repository": "https://github.com/futurepress/epubjs-rn",
+  "homepage": "https://github.com/futurepress/epubjs-rn",
   "main": "./components/index.js",
   "scripts": {
     "start": "node EpubReader/node_modules/react-native/local-cli/cli.js start",
