@@ -1,6 +1,6 @@
 {
   "name": "@vitorverasm/epubjs-rn",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "repository": "https://github.com/futurepress/epubjs-rn",
   "homepage": "https://github.com/futurepress/epubjs-rn",
   "main": "./components/index.js",
